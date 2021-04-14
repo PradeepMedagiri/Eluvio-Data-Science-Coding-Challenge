@@ -1,5 +1,5 @@
 # Eluvio-Data-Science-Coding-Challenge
-<p>Description of variables stored below for easy access</p>
+<p>Description of variables stored below for easy access:</p>
 df is main data frame
 dff_topyear (top up votes each year)
   top_15_upvotes (top 15 upvotes over all)
