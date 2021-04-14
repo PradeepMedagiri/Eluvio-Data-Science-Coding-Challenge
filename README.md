@@ -6,8 +6,6 @@
 <p>4. top_20_over18 (top 20 upvotes in over_18)<p>
 <p>5. df_processed is dataframe after preprocessed.</p>
 
-<h1>Heading</h1>
-
  # Details & Assumptions:
 - Dataset: 8 years of data from 2008 to 2016
 - up_votes and down_votes are votes from auidence (considered as targets attending events)
