@@ -27,4 +27,11 @@ Note: Above mentioned are basic details, more will be added on drilling down to 
 <img src="Image.png" width="600"/>
 </div>
 
-
+# Top Insights:
+- Overall auidence:
+ - First, majority of auidence on positive sentiment events.  
+ - but in top 15 up voted events: negative content events wins with not greater variation to positive events.
+- Over 18 vs below 18:
+ - Majority of Over18 auidence in top 20 upvoted events are interested in positive content
+ - Majority of Below18 auidence in top 15 upvoted events are interested in negative content
+- Highest up voted in each year, negative content events had more popularity.
