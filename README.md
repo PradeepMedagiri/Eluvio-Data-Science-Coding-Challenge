@@ -35,3 +35,20 @@ Note: Above mentioned are basic details, more will be added on drilling down to 
  - Majority of Over18 auidence in top 20 upvoted events are interested in positive content
  - Majority of Below18 auidence in top 15 upvoted events are interested in negative content
 - Highest up voted in each year, negative content events had more popularity.
+
+# Results and Conclusion:
+- Accuracy achieved is 0.873 with loss of 0.381.
+- Further Developements:
+ - Model can be developed by increasing number of epochs, as we can see above that accuracy is increasing.
+ - Developing network architecture will gives best results.
+ - Callbacks can be used to stop training after reaching certain threshold.
+ - Creating pipelines and using modeling networks on our dataset. Moving forward we can create time series model by given timestamps. So then we can predict reach count of auidence.
+- Further Results: 
+ - Recommendations to users on event content.
+ - Arrangements or adjustments of jobs(servers) can be made by predicting or estimating reach count.
+ - From time series forecasting we can see trends and seasonality of events. For example in this dataset one event hosted in 2015 had more up_votes. The interesting observation: It was friday (weekend) and Evening hours. 
+
+## Thank you
+- Pradeep Medagiri, medagiri.pradeep@gmail.com
+
+
