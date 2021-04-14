@@ -17,7 +17,7 @@
 Note: Above mentioned are basic details, more will be added on drilling down to bottom
 
 
-[I'm an inline-style link](https://www.google.com)
+[Preprocessing notebook](https://github.com/PradeepMedagiri/Eluvio-Data-Science-Coding-Challenge/blob/main/NLP.ipynb)
 
 
 ## Top up_votes in span of 9 years
@@ -39,6 +39,9 @@ Note: Above mentioned are basic details, more will be added on drilling down to 
  - Majority of Over18 auidence in top 20 upvoted events are interested in positive content
  - Majority of Below18 auidence in top 15 upvoted events are interested in negative content
 - Highest up voted in each year, negative content events had more popularity.
+
+
+[Model build notebook](https://github.com/PradeepMedagiri/Eluvio-Data-Science-Coding-Challenge/blob/main/Model_LSTM.ipynb)
 
 # Results and Conclusion:
 - Accuracy achieved is 0.873 with loss of 0.381.
