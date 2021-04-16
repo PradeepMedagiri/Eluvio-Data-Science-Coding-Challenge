@@ -44,7 +44,7 @@ Note: Above mentioned are basic details, more will be added on drilling down to 
 [Model build notebook](https://github.com/PradeepMedagiri/Eluvio-Data-Science-Coding-Challenge/blob/main/Model_LSTM.ipynb)
 
 # Results and Conclusion:
-- Accuracy achieved is 0.873 with loss of 0.381.
+- Accuracy achieved is 0.873.
 - Further Developements:
  - Model can be developed by increasing number of epochs, as we can see above that accuracy is increasing.
  - Developing network architecture will gives best results.
